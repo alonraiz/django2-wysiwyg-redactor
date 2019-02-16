@@ -6,8 +6,8 @@ readme = f.read()
 f.close()
 
 setup(
-    name='django-wysiwyg-redactor',
-    version='0.5.1',
+    name='django2-wysiwyg-redactor',
+    version='1.0.0',
     description='django-wysiwyg-redactor is a lightweight responsive wysiwyg editor for Django',
     long_description=readme,
     author="Alon Raizman",
